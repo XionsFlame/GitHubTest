@@ -43661,6 +43661,7 @@
     <e p="C:\Users\James H\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\James H\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\ReSharperHost\v202\SolutionCaches\_GitHubTest.-300091504.00" t="ExcludeRecursive" />
     <e p="C:\Users\James H\Documents\Unreal Projects\GitHubTest" t="IncludeFlat">
+      <e p=".gitignore" t="Include" />
       <e p="Config" t="Include">
         <e p="DefaultEditor.ini" t="Include" />
         <e p="DefaultEngine.ini" t="Include" />
@@ -43676,6 +43677,7 @@
         <e p="UE4.vcxproj" t="IncludeRecursive" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
       <e p="Source" t="Include">
         <e p="GitHubTest" t="Include">
           <e p="GitHubTest.Build.cs" t="Include" />
@@ -43683,6 +43685,8 @@
           <e p="GitHubTest.h" t="Include" />
           <e p="GitHubTestGameModeBase.cpp" t="Include" />
           <e p="GitHubTestGameModeBase.h" t="Include" />
+          <e p="Pickup.cpp" t="Include" />
+          <e p="Pickup.h" t="Include" />
         </e>
         <e p="GitHubTest.Target.cs" t="Include" />
         <e p="GitHubTestEditor.Target.cs" t="Include" />
